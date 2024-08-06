@@ -1,0 +1,127 @@
+
+body{
+    background-color: black;
+    color: white;
+    width: 90%;
+    margin-left: 50px;
+    
+    border: 20px solid;
+}
+.header{
+    display: flex;
+    background-color: #041D21;
+}
+.nave-bar ul{
+    display: flex;
+    gap: 30px;
+    margin-left: 300px;
+    text-decoration: none;
+    
+}
+.btn1{
+    margin-left: 300px;
+    border-radius: 8px;
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+}
+.nave-bar{
+    display: flex;
+}
+.nave-bar.active {
+    color: rgb(189, 28, 28) ;
+}
+.nave-bar :hover{
+    color: rgb(189, 28, 28);
+}
+ .btn1 :hover{
+    background-color: rgb(189, 28, 28) ;
+}
+.box1{
+    display: flex;
+    margin-left: 800px;
+}
+.box2{
+    display: flex;
+    gap: 30px;
+    margin-left: 100px;
+}
+.box2 h1{
+    font-size: 50px;
+}
+.box2 span{
+    color: rgb(226, 55, 55);
+}
+.box2 h2{
+    margin-top: 100px;
+    margin-left: 500px;
+    font-size: 50px;
+}
+.main1{
+    display: flex;
+    
+}
+.img8 img{
+width: 400px;
+border-radius: 0 50px 0 0 ;
+margin-top: -100px;
+}
+.box3{
+    width: 400px;
+    margin-left: 300px;
+    
+}
+.img1 img{
+ width: 300px;
+ border-radius: 0 50px 0 0;
+ margin-top: -100px;
+}
+
+.box4 h1{
+font-size: 100px;
+}
+.box4{
+    margin-left: 100px;
+    width: 1060px;
+}
+.box4 span{
+    color: rgb(226, 55, 55);
+}
+.box4 p{
+    font-size: 30px;
+}
+.box5{
+    margin-left: 100px;
+}
+.box5 h1{
+    font-size: 100px;
+    text-align: center;
+}
+.box5 h2{
+    font-size: 30px;
+    color: rgb(226, 55, 55);
+}
+.box5 span{
+    color: rgb(226, 55, 55);
+}
+.box6 h1{
+color: rgb(226, 55, 55);
+font-size: 30px;
+}
+.box6{
+margin-left:100px ;
+}
+.box7{
+    display: flex;
+    gap: 40px;
+}
+.main6{
+    margin-left: 100px;
+}
+.main6 h1{
+    font-size: 30px;
+    margin-left: 100px;
+}
+.main6 span{
+    color: rgb(226, 55, 55);
+}

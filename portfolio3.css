@@ -1,0 +1,149 @@
+body{
+    background-color: rgb(152, 236, 232);
+    
+}
+.header{
+    display: flex;
+    background-color: #041D21;
+}
+.nave-bar ul{
+    display: flex;
+    gap: 30px;
+    margin-left: 300px;
+    text-decoration: none;
+    
+}
+.btn1{
+    margin-left: 300px;
+    border-radius: 8px;
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+}
+.nave-bar{
+    display: flex;
+}
+.nave-bar.active {
+    color: rgb(189, 28, 28) ;
+}
+.nave-bar :hover{
+    color: rgb(189, 28, 28);
+}
+ .btn1 :hover{
+    background-color: rgb(189, 28, 28) ;
+}
+.main1{
+    text-align: center;
+    font-size: 50px;
+    color: greenyellow;
+}
+.box1{
+    display: flex;
+    gap: 20px;
+    margin-left: 100px;
+}
+.box1 h1{
+    font-size: 50px;
+}
+.img1{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.img2 img{
+    border-radius: 50%;
+    width: 500px;
+    height: 500;
+    border: 2px solid black;
+    margin-left: 100px;
+}
+.box2 h1{
+    font-size: 80px;
+    margin-left: 100px;
+}
+.main1{
+    margin-left: 100px;
+}
+
+.main2{
+margin-left: 100px;
+}
+.main2 h1{
+    font-size: 50px;
+    color: rgb(152, 236, 26);
+}
+.main2 h2{
+    color: rgb(152, 236, 26);
+    font-size: 30px;
+}
+.box3{
+    display: flex;
+   
+}
+.main3{
+    margin-left: 100px;
+}
+.main3 h1{
+    font-size: 150px;
+}
+.main3 h2{
+    font-size: 70px;
+}
+.main3 h3{
+    font-size: 50px;
+}
+.box4{
+    font-size: 70px;
+    margin-left: 100px;
+}
+.box5 {
+    margin-left: 100px;
+}
+.box5 h2{
+    color: green;
+    font-size: 50px;
+}
+.box5 p{
+    font-size: 30px;
+}
+.box6{
+    margin-left: 100px;
+    
+}
+.box6 h1{
+    color: rgb(54, 228, 54);
+    font-size: 50px;
+}
+.box6 p{
+    font-size: 30px ;
+}
+.main4{
+    margin-left: 100px;
+
+}
+.main4 h1{
+    font-size: 50px;
+}
+.main4 p{
+    font-size: 30px;
+}
+.main5{
+    font-size: 30px;
+    margin-left: 100px;
+}
+.main5 h1{
+    font-size: 50px;
+    color: rgb(53, 224, 53);
+}
+.box7{
+    margin-left: 100px;
+}
+.box7 h1{
+    font-size: 50px;
+}
+.box7 p{
+    font-size: 30px;
+}
+.img3 img{
+    width: 1200px;
+    margin-left: 100px;
+}
